@@ -1,2 +1,2 @@
-## SVD Image Denoising Project
+## SSA Image Denoising Project
 Please view the report PDF for project description and results.
